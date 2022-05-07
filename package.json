@@ -1,0 +1,31 @@
+{
+  "name": "eslint-config-dixidan",
+  "version": "0.1.0",
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "author": "Dan",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix .",
+    "release": "npm publish"
+  },
+  "peerDependencies": {
+    "eslint": ">=7.4.0",
+    "typescript": ">=3.9",
+    "@typescript-eslint/eslint-plugin": "^5.22.0",
+    "@typescript-eslint/parser": "^5.22.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-n": "^15.2.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-vue": "^8.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.14.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
