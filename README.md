@@ -1,6 +1,6 @@
-# eslint-config/dixidan
+# eslint-config-dixidan
 
-[![npm](https://img.shields.io/npm/v/@dixidan/eslint-config)](https://npmjs.com/package/@dixidan/eslint-config)
+[![npm](https://img.shields.io/npm/v/eslint-config-dixidan)](https://npmjs.com/package/eslint-config-dixidan)
 
 ## Usage
 
@@ -9,7 +9,7 @@
 #### Install
 
 ```bash
-npm -D eslint eslint-config-dixidan eslint-config-standard eslint-plugin-n eslint-plugin-promise eslint-plugin-import
+npm i -D eslint eslint-config-dixidan eslint-config-standard eslint-plugin-n eslint-plugin-promise eslint-plugin-import
 ```
 
 #### Config `.eslintrc`
@@ -26,7 +26,7 @@ js
 #### Install
 
 ```bash
-npm -D eslint eslint-config-dixidan eslint-config-standard eslint-plugin-n eslint-plugin-promise eslint-plugin-import @typescript-eslint/eslint-plugin @typescript-eslint/parser
+npm i -D eslint eslint-config-dixidan eslint-config-standard eslint-plugin-n eslint-plugin-promise eslint-plugin-import @typescript-eslint/eslint-plugin @typescript-eslint/parser
 ```
 
 #### Config `.eslintrc`
@@ -43,7 +43,7 @@ js
 #### Install
 
 ```bash
-npm -D eslint eslint-config-dixidan eslint-config-standard eslint-plugin-n eslint-plugin-promise eslint-plugin-import eslint-plugin-vue
+npm i -D eslint eslint-config-dixidan eslint-config-standard eslint-plugin-n eslint-plugin-promise eslint-plugin-import eslint-plugin-vue
 ```
 
 #### Config `.eslintrc`
@@ -60,7 +60,7 @@ js
 #### Install
 
 ```bash
-npm -D eslint eslint-config-dixidan eslint-config-standard eslint-plugin-n eslint-plugin-promise eslint-plugin-import @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-plugin-vue
+npm i -D eslint eslint-config-dixidan eslint-config-standard eslint-plugin-n eslint-plugin-promise eslint-plugin-import @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-plugin-vue
 ```
 
 #### Config `.eslintrc`
